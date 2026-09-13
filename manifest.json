@@ -1,0 +1,13 @@
+{
+  "name": "Arrow Flow",
+  "short_name": "ArrowFlow",
+  "description": "Clear the path. Find the flow. A premium arrow puzzle game.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F5F7FB",
+  "theme_color": "#132048",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
